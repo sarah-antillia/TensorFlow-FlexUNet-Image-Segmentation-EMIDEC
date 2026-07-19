@@ -112,7 +112,7 @@ Only 100 examples in the training set are counted.<br><br>
 <b>License</b><br>
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC BY-NC-SA 4.0</a>
 <br><br>
-For more information, please refer to <a href="https://emidec.com/dataset"><b>MIDEC the database</b></a>.
+For more information, please refer to <a href="https://emidec.com/dataset"><b>EMIDEC the database</b></a>.
 <br><br>
 <h3>
 2 EMIDEC-Heart-MRI ImageMask Dataset
