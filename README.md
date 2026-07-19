@@ -282,7 +282,7 @@ By using this epoch_change_infer callback, on every epoch_change, the inference 
 <img src="./projects/TensorFlowFlexUNet/EMIDEC-Heart-MRI/asset/epoch_change_infer_at_end.png" width="1024" height="auto"><br>
 
 <br>
-In this experiment, the training process was stopped at epoch 25 by EarlyStoppingCallback.<br><br>
+In this experiment, the training process was terminated at epoch 60.<br><br>
 <img src="./projects/TensorFlowFlexUNet/EMIDEC-Heart-MRI/asset/train_console_output_at_epoch60.png" width="880" height="auto"><br>
 <br>
 <a href="./projects/TensorFlowFlexUNet/EMIDEC-Heart-MRI/eval/train_metrics.csv">train_metrics.csv</a><br>
