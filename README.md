@@ -10,7 +10,7 @@ TensorFlow-FlexUNet-Image-Segmentation-Model</a>
 (TensorFlow Flexible UNet Image Segmentation Model for Multiclass) , 
 and a 512x512 pixels PNG
 <a href="https://drive.google.com/file/d/17P8uRqDm4flK6sXtcm7rY2XU7ciESE2Y/view?usp=sharing">
-<b>EMIDEC-Heart-MRI-ImageMask-Dataset-V2.zip</b></a> with colorized masks 
+<b>Augmented-EMIDEC-Heart-MRI-ImageMask-Dataset-V2.zip</b></a> with colorized masks 
 (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC BY-NC-SA 4.0</a>), which was derived by us from <br><br>
 <a href="https://www.kaggle.com/datasets/johnsonhk88/emidec-dataset-for-heart-mri-image">
 <b>EMIDEC Dataset For Heart MRI Image</b> </a> by ohnson chong.
@@ -122,7 +122,7 @@ For more information, please refer to <a href="https://emidec.com/dataset"><b>EM
 </h3>
  If you would like to train this EMIDEC-Heart-MRI Segmentation model by yourself,
 please down load our dataset <a href="https://drive.google.com/file/d/17P8uRqDm4flK6sXtcm7rY2XU7ciESE2Y/view?usp=sharing">
-<b>EMIDEC-Heart-MRI-ImageMask-Dataset-V2.zip</b>
+<b>Augmented-EMIDEC-Heart-MRI-ImageMask-Dataset-V2.zip</b>
 (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC BY-NC-SA 4.0</a>)
 </a> on the google drive,
 expand the downloaded, and put it under <b>./dataset/</b> to be.
